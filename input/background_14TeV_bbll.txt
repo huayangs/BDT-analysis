@@ -1,0 +1,7 @@
+#NAME          N       XS[pb]      LABEL    DIRECTORY
+ttbar          50      102      tt-lep   /Volumes/LaCie/Background/14TeV/ttbar
+Zbb            50      5.9       Zbb      /Volumes/LaCie/Background/14TeV/zbb
+
+
+
+
